@@ -1,3 +1,7 @@
+Site Screenshot- <img width="1609" alt="Screenshot 2023-10-05 at 12 43 33 PM" src="https://github.com/ErikMejiaCode/astro-digital-portfolio/assets/112577065/0dc3c212-3cee-493c-b31e-a257b34b1f20">
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
