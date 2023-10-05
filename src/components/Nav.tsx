@@ -98,7 +98,7 @@ export default function Nav() {
             <motion.a variants={itemMotion} href="/">
               Home
             </motion.a>
-            <motion.a variants={itemMotion} href="services">
+            <motion.a variants={itemMotion} href="/services">
               Services
             </motion.a>
             <motion.a variants={itemMotion} href="/contact">
